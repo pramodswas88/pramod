@@ -29,14 +29,23 @@ How it is happening, By using Execute shell commands in Jenkins.
 For Backend AWS Services -
 
 First create EC2 Instance (install required softwares)
+
 Create Target Groups - Select the EC2 instance
+
 Create Network Load Balancer -  Select the Target Groups
+
 Take the NLB endpoint - 
+
 Create API in API Gateway - 
+
 Create VPC Links - here select the NLB Option  (update NLB endpoint) and you'll get VPC Link ID
+
 Create stage - in stage variables update VPC Link ID & NLB endpoint
+
 Create Custom Domain Name - you'll get API Gateway Domain Name 
+
 Take the API Gateway Domain Name - update in Route53
+
 Create a Record set in Route53. (This is the Backend Application URL)
 
 
