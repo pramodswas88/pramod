@@ -60,6 +60,11 @@ Feed to EC2 Instance is from
 
 How it is happening, By using Execute shell commands in Jenkins.
 
+- Container Technology
+
+Take EC2 Instance create Dockerfile - Image - Container - deploy in k8s.
+
+
 
 
 
