@@ -63,6 +63,28 @@ How it is happening, By using Execute shell commands in Jenkins.
 - Container Technology
 
 Take EC2 Instance create Dockerfile - Image - Container - deploy in k8s.
+-------------------------------------------------------------------------------------------
+
+FRONTEND - REACTJS - Build tool is npm.
+BACKEND - PYTHON.
+
+SCM - GITHUB.
+CI-CD - JENKINS - FREE STYLE PROJECT - UPSTREAM FRESS SYTLE PROJECT.
+ARTIFACT REPOSITORY - NEXUS.
+DEPLOYMENT - EC2 INSTANCE. Webserver - nginx
+DB - MYSQL
+CONNECTIVITY - .env file
+For email svc - Lambda.
+
+
+
+
+
+
+
+
+
+
 
 
 
