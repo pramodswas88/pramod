@@ -76,6 +76,16 @@ DB - MYSQL
 CONNECTIVITY - .env file
 For email svc - Lambda.
 
+Jenkins execute shell work - 
+
+Jenkins server -                             Dev server
+env.dev - /var/data/ENV/GEB/env.dev          /tmp/env.dev
+                                         cp  /tmp/env.dev   /opt/GEB/ENV/env.dev
+                                            /tmp
+                                                                                             
+
+
+
 
 
 
