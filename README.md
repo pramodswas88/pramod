@@ -67,7 +67,10 @@ Take EC2 Instance create Dockerfile - Image - Container - deploy in k8s.
 
 FRONTEND - REACTJS - Build tool is npm.
 
-BACKEND - PYTHON.
+BACKEND - PYTHON. cd /etc/nginx/conf.d - add file
+                  cd /etc/systemd/system/gep.svc
+not in B, in Srvr                  
+                  
 
 SCM - GITHUB.
 
