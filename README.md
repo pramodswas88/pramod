@@ -68,13 +68,19 @@ Take EC2 Instance create Dockerfile - Image - Container - deploy in k8s.
 FRONTEND - REACTJS - Build tool is npm.
 
 BACKEND - PYTHON. cd /etc/nginx/conf.d - add file
+
                   cd /etc/systemd/system/gep.svc
+                  
+                  cd /opt/uwsgi-ini
+                  
+                  cd /opt/G/E/e
+
 not in B, in Srvr                  
                   
 
 SCM - GITHUB.
 
-CI-CD - JENKINS - FREE STYLE PROJECT - UPSTREAM FRESS SYTLE PROJECT.
+CI-CD - JENKINS - FREE STYLE PROJECT - UPSTREAM FREE STYLE PROJECT.
 
 ARTIFACT REPOSITORY - NEXUS.
 
