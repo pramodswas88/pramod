@@ -94,6 +94,11 @@ For email svc - Lambda.
 
 Jenkins execute shell work - 
 
+
+celery service
+
+celerybeat.service
+
                                                                                              
 
 
