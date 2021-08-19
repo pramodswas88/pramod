@@ -99,6 +99,11 @@ celery service
 
 celerybeat.service
 
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+BASH SHELL MODIFICATION in Linux
+
+Run:PS1='[\d]\u@\h:\w$' and add this to the ~/.profile file echo 'PS1="[\d]\u@\h:\w$"' >> ~/.profile
                                                                                              
 
 
