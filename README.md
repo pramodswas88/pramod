@@ -106,7 +106,9 @@ BASH SHELL MODIFICATION in Linux
 Run:PS1='[\d]\u@\h:\w$' and add this to the ~/.profile file echo 'PS1="[\d]\u@\h:\w$"' >> ~/.profile
 
 Django framework for frontend and backend
-                                                                                             
+
+          <img width="704" alt="devops procedure" src="https://user-images.githubusercontent.com/52623483/139626410-15fc167b-d510-4313-a7a1-c1b1d91b841f.PNG">
+                                                               
 
 
 
